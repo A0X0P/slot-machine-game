@@ -19,7 +19,7 @@ It’s designed as a beginner-friendly Python project with clean structure, test
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/slot-machine-game.git
+git clone https://github.com/A0X0P/slot-machine-game.git
 cd slot-machine-game
 ```
 ### 2. Run the game
